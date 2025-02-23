@@ -4,7 +4,7 @@
 //
 //  Created by Zoltan Vegh on 23/02/2025.
 //
-// Having issues with git fml
+
 
 import SwiftUI
 
